@@ -114,6 +114,10 @@ PRODUCT_PACKAGES += \
     LineageParts \
     LineageSettingsProvider \
     LineageSetupWizard \
+    
+#Gamingmode package
+PRODUCT_PACKAGES += \
+    GamingMode
 
 # Themes
 PRODUCT_PACKAGES += \
